@@ -1,0 +1,1 @@
+Hello bois, this is an NPM package.
